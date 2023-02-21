@@ -5,8 +5,10 @@ Programa que controla los productos de una farmacia.
 
 ![image](https://user-images.githubusercontent.com/117754080/220467529-c0f64faa-ad4b-400d-b01a-cecb183075a8.png)
 
-Ejemplo de funcionamiento
-Ingreso de datos: 
+Ejemplo de funcionamiento:
+
+Ingreso de datos
+
 Seleccion de la Fecha
 
 ![image](https://user-images.githubusercontent.com/117754080/220468621-ea2dde62-1dd2-4e2e-8a06-a750bae01f5c.png)
