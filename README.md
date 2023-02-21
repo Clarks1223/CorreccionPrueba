@@ -46,6 +46,7 @@ Cuando se actulizan correctamente los datos, el programa muestra un mensaje de d
 ![image](https://user-images.githubusercontent.com/117754080/220469481-d1511e75-3b5f-4c30-9dfb-dd84e0471176.png)
 
 Eliminar Producto
+
 Se eliminara el prodcuto que se ingreso al inicio del programa
 
 ![image](https://user-images.githubusercontent.com/117754080/220469967-4ce13dc3-7d2a-4445-a1af-466fb5652b32.png)
