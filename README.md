@@ -1,5 +1,6 @@
 # CorreccionPrueba
 El programa debe ser ejecutado desde main
+
 Programa que controla los productos de una farmacia.
 ![image](https://user-images.githubusercontent.com/117754080/220467529-c0f64faa-ad4b-400d-b01a-cecb183075a8.png)
 
