@@ -55,5 +55,6 @@ El programa elimna datos con medidante el codigo del producto, si todo sale bien
 
 ![image](https://user-images.githubusercontent.com/117754080/220470146-b94d431d-0b3e-43a2-bceb-cf0f87ce6997.png)
 
+Video
 
-
+https://youtu.be/ciO1vH9lvKk
